@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👨‍💻 Abhinav TK — Full Stack Developer | Python · Django · React<br>⚡ I build real things — AI quiz platforms, face recognition systems, 3D web apps<br>🔥 Currently interning @ Nexurix | Always shipping something new<br>🌍 Based in Kerala, India | Open to remote opportunities
 
 
